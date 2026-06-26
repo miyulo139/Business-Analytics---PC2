@@ -1,6 +1,7 @@
 # Business Analytics — PC2: Spotify Perú
 
 Repositorio del proyecto del curso de Business Analytics (PC2) que analiza datos de Spotify en Perú.
+Consta de un proyecto de análisis y visualización sobre el consumo de música en Spotify en Perú. Resuelve preguntas sobre artistas, géneros y tendencias temporales a partir de datos preparados y proporciona resultados reproducibles (notebook), documentación metodológica (informe) y materiales para un dashboard interactivo (Power BI).
 
 ## Contenido del repositorio
 - `BA-Presentación_Spotify.pdf` — Presentación (diapositivas) del proyecto.
